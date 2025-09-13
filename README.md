@@ -1,4 +1,4 @@
-# BillPrint2 - Supermarket Billing System
+# Supermarket Billing System
 
 ## Overview
 BillPrint2 is a simple console-based Java application designed to simulate a supermarket billing system. It allows users to input customer details, item quantities, and payment amounts, then generates a formatted bill with totals, a 10% discount, change calculation, and a breakdown of change into notes and coins. This project is ideal for beginners learning Java input handling, calculations, and formatted output.
